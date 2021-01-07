@@ -1,4 +1,4 @@
-console.log("script de collapse carregado!")
+console.log("script de collapse carregado!");
 var coll = document.getElementsByClassName("collapsible");
 var i;
 
